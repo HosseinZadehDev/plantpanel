@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a569b7ca.css",
+    "main.js": "/static/js/main.b4a5c35f.js",
+    "static/media/leaves.mp4": "/static/media/leaves.3976f5a0c8666ba869f4.mp4",
+    "static/media/plant1.png": "/static/media/plant1.4249bbbfe561cefba4cd.png",
+    "static/media/plant2.png": "/static/media/plant2.bdf5e5d7078a405fc877.png",
+    "static/media/plant5.png": "/static/media/plant5.04f8e10be5b3ec6f0947.png",
+    "static/media/plant4.png": "/static/media/plant4.5ce40368283032165fb8.png",
+    "static/media/plant3.png": "/static/media/plant3.1d69fe61f6f2693c8d03.png",
+    "static/media/people2.png": "/static/media/people2.b498bc44c306878dc603.png",
+    "static/media/people1.png": "/static/media/people1.64f4902f16f1fd10e8d1.png",
+    "static/media/people6.png": "/static/media/people6.eb63d2e3d5673fa8d854.png",
+    "static/media/logo.png": "/static/media/logo.1fb425baf5ef7aa31727.png",
+    "static/media/people5.png": "/static/media/people5.9f8ee84b715df49386a4.png",
+    "static/media/people4.png": "/static/media/people4.fe9526d4d9a43549790a.png",
+    "static/media/people3.png": "/static/media/people3.409ce572030565081fdb.png",
+    "static/media/me.jpg": "/static/media/me.87c4294f16518405053a.jpg",
+    "static/media/Yekan.otf": "/static/media/Yekan.5286287f90cfa4ad981a.otf",
+    "static/media/Yekan.ttf": "/static/media/Yekan.bd776b3076b9c71c04b8.ttf",
+    "static/media/Yekan.woff": "/static/media/Yekan.314cf662b932d4ca1271.woff",
+    "static/media/Yekan.eot": "/static/media/Yekan.a9fe746817819b9eb55e.eot",
+    "static/media/Yekan.woff2": "/static/media/Yekan.1613331811dbcb7394f0.woff2",
+    "index.html": "/index.html",
+    "main.a569b7ca.css.map": "/static/css/main.a569b7ca.css.map",
+    "main.b4a5c35f.js.map": "/static/js/main.b4a5c35f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a569b7ca.css",
+    "static/js/main.b4a5c35f.js"
+  ]
+}
